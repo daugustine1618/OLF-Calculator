@@ -1,2 +1,2 @@
 # OLF-Calculator
-Workbook for calculating on-level factors for actuarial projects - a VBA Project
+Excel workbook for calculating on-level factors for actuarial projections
